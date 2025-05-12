@@ -1,0 +1,14 @@
+{
+	"files.associations": {
+		"libft.h": "c",
+		"push_swap.h": "c",
+		"limits.h": "c",
+		"chrono": "c",
+		"random": "c",
+		"limits": "c",
+		"semaphore": "c",
+		"valarray": "c",
+		"algorithm": "c"
+	},
+	"makefile.configureOnOpen": false
+}
